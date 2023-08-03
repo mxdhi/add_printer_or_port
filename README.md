@@ -1,4 +1,4 @@
-# Script para añadir puertos/impresoras a servidores Windows.
+# Añadir puertos/impresoras a servidores Windows con powershell.
 # Importante: Se debe ejecutar con privilegios de Administrador.
 
 # Añadir puerto
