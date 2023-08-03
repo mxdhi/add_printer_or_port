@@ -6,7 +6,7 @@
 Ejecutar el script add_port.ps1 declarando las siguientes opciones:
 
 ```
-.\add_port.ps1.ps1 -nm_port IP_PUERTO
+.\add_port.ps1 -nm_port IP_PUERTO
 ```
 
 # Añadir impresoras
