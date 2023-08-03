@@ -1,4 +1,4 @@
-# Añadir puertos/impresoras a servidores Windows con $${\color{blue}Powershell}$$.
+# Añadir puertos/impresoras a servidores Windows con <code style="color : blue">Powershell</code>.
 # Importante: Se debe ejecutar con privilegios de Administrador.
 
 # Añadir puerto
