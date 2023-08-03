@@ -1,5 +1,5 @@
 # Se debe ejecutar con privilegios de administrador
-# Script para crear impresora (Uso: .\crear_impresora_fucli.ps1 -nm_printer "NOMBRE IMPRESORA" -nm_port "IPPUERTO" -nm_driver "NOMBRE DRIVER")
+# Script para crear impresora (Uso: .\add_printer.ps1 -nm_printer "NOMBRE IMPRESORA" -nm_port "IPPUERTO" -nm_driver "NOMBRE DRIVER")
 
 param (
     [Parameter(Mandatory=$true, Position=0)]
